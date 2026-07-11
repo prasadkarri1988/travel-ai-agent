@@ -1,0 +1,37 @@
+{
+  "flights": [
+    {
+      "id": 1,
+      "airline": "Alaska Airlines",
+      "flightNumber": "AS322",
+      "origin": "DFW",
+      "destination": "SEA",
+      "departure": "2026-07-20T08:30",
+      "arrival": "2026-07-20T11:15",
+      "price": 320,
+      "availableSeats": 12
+    },
+    {
+      "id": 2,
+      "airline": "Delta",
+      "flightNumber": "DL456",
+      "origin": "DFW",
+      "destination": "SEA",
+      "departure": "2026-07-20T10:00",
+      "arrival": "2026-07-20T13:05",
+      "price": 355,
+      "availableSeats": 8
+    },
+    {
+      "id": 3,
+      "airline": "American Airlines",
+      "flightNumber": "AA890",
+      "origin": "DFW",
+      "destination": "SEA",
+      "departure": "2026-07-20T15:45",
+      "arrival": "2026-07-20T18:40",
+      "price": 340,
+      "availableSeats": 15
+    }
+  ]
+}
